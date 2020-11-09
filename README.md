@@ -1,2 +1,1 @@
-# WorkSample-
-Compilation of Data Projects 
+This repository contains sample projects.
