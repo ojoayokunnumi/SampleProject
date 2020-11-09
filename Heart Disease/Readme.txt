@@ -1,0 +1,1 @@
+This python notebook presents a model that predicts, if a patient has heart disease, based on some known health information. The data is copied from Kaggle 
